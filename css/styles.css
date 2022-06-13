@@ -405,6 +405,12 @@ body {
     fill: #FFFFFF;
 }
 
+.team-soc-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .clients-title {
     font-weight: 700;
     font-size: 36px;
